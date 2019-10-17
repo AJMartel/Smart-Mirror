@@ -1,4 +1,4 @@
-# Smart-Mirror
+# [Smart-Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
 Raspberry powered mirror which can display the news, weather, and time.
 
 ## Installation and Updating
